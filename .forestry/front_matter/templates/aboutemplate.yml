@@ -12,5 +12,6 @@ fields:
   name: image
   label: image
 pages:
+- content/post/otro-post.md
 - content/post/dani.md
 - content/post/fede.md
